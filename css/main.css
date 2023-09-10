@@ -1,0 +1,64 @@
+.Pic1 {
+    width:400px;
+    height:800px;
+    float:left;
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: blue;
+}
+.Pic2 {
+    width:400px;
+    height:800px;
+    float:left;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: aqua;
+}
+.Pic3 {
+    width:400px;
+    height:800px;
+    float:left;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: aquamarine;
+}
+.Pic4 {
+    width:400px;
+    height:800px;
+    float:left;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: blueviolet;
+}
+.Pic1 img {
+    width:400px;
+    height:400px;
+}
+.Pic2 img {
+    width:400px;
+    height:400px;
+}
+.Pic3 img {
+    width:400px;
+    height:400px;
+}
+.Pic4 img {
+    width:400px;
+    height:400px;
+}
+.Pic1 p {
+    text-align: center;
+    font-size: 50px;
+}
+.Pic2 p {
+    text-align: center;
+    font-size: 50px;
+}
+.Pic3 p {
+    text-align: center;
+    font-size: 50px;
+}
+.Pic4 p {
+    text-align: center;
+    font-size: 50px;
+}
